@@ -39,5 +39,5 @@ function  iLoveTheBeatles (number){
     results.push("I love the Beatles!");
   }
   while (i<number);
-  console.log(results);
+  return results;
 }
