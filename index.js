@@ -41,7 +41,24 @@ function  iLoveTheBeatles (number){
 //   while (i>=15);
 //   return results;
 // }
+function  iLoveTheBeatles (number){
 
+  var results =[];
+  var i = 0;
+  
+  do{
+    i++;
+    results.push("I love the Beatles!");
+  }
+
+  while (i<number);
+  if (number<15){  
+  return (results);
+}
+  else {
+    return (["I love the Beatles!"]);
+  }
+}
 
 
 
