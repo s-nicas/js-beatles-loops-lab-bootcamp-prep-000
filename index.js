@@ -32,7 +32,7 @@ function  iLoveTheBeatles (number){
 
 function  iLoveTheBeatles (number){
   var results =[];
-  var i = 0;
+  var i = 1;
   
   do{
     i++;
