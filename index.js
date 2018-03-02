@@ -42,19 +42,6 @@ function  iLoveTheBeatles (number){
 //   return results;
 // }
 
-function  iLoveTheBeatles (number){
 
-  var results =[];
-  var i = 0;
-  
-  do{
-    i++;
-    results.push("I love the Beatles!");
-  }
-
-  while (i<number);
-  if (number<15){  
-  console.log(results);
-}}
 
 
