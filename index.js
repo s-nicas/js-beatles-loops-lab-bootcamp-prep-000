@@ -23,3 +23,7 @@ function johnLennonFacts(array){
   }
   return results;
 }
+
+
+
+
