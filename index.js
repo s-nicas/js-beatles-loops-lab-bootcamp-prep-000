@@ -30,14 +30,14 @@ function  iLoveTheBeatles (number){
 }
 
 
-function  iLoveTheBeatles (number){
-  var results =[];
-  var i = 1;
+// function  iLoveTheBeatles (number){
+//   var results =[];
+//   var i = 1;
   
-  do{
-    i++;
-    results.push("I love the Beatles!");
-  }
-  while (i>=15);
-  return results;
-}
+//   do{
+//     i++;
+//     results.push("I love the Beatles!");
+//   }
+//   while (i>=15);
+//   return results;
+// }
