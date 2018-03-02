@@ -24,6 +24,9 @@ function johnLennonFacts(array){
   return results;
 }
 
-
+function  iLoveTheBeatles (number){
+  var results =[];
+  
+}
 
 
